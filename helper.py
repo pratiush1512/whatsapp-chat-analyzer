@@ -169,7 +169,7 @@ def sentiment_analysis(selected_user,df):
         flag = -1
     else:
         flag = 0
-    values= [x,y,z]
+    values= [(x/(x+y+z))*100,(y/(x+y+z))*100,(z/(x+y+z))*100]
     label = ['Positive','Negative','Neutral']
     return values,label,flag
             
