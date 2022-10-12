@@ -15,11 +15,11 @@ Link of Heroku App: https://whatsapp-ml-chat.herokuapp.com/
 5) Weekly Activity Map
 ![image](https://user-images.githubusercontent.com/92681193/190698341-dd502728-8278-4cf9-92d2-20c789b0d4a3.png)
 6) Most Busy Users
-
+![image](https://user-images.githubusercontent.com/92681193/195398039-eaeda7ff-cc6c-4c17-aaf6-fe26a52efb64.png)
 7) Wordcloud
-
+![image](https://user-images.githubusercontent.com/92681193/195397937-da8641fb-909e-4234-ab7e-4c0de9abc7c1.png)
 8) Most Common Words
-
+![image](https://user-images.githubusercontent.com/92681193/195398129-fc90ddd6-df14-49c2-8f4b-4e5da93c23fa.png)
 9) Emoji Analysis
 ![image](https://user-images.githubusercontent.com/92681193/190698767-ed36e847-0df2-4510-92f5-80fed028f61d.png)
 10) Sentiment Analysis
